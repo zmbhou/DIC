@@ -2,6 +2,4 @@
 
 # 1. Prerequisites
 ```
-Install pytorch
-```
-run demo_DIC_bsd.py
+Install pytorch and run demo_DIC_bsd.py
