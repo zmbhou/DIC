@@ -1,4 +1,4 @@
-# DIC
+# DIC: Deep Image Clustering for Unsupervised Image Segmentation
 
 # 1. Prerequisites
 ```
